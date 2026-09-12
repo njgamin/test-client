@@ -2,13 +2,5 @@
   "BookmarkBarEnabled": true,
   "ExtensionInstallForcelist": [
     "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx"
-  ],
-  "ManagedBookmarks": [
-    {"name": "💬 Discord", "url": "https://discord.com/app"},
-    {"name": "📸 Instagram", "url": "https://www.instagram.com"},
-    {"name": "🎵 TikTok", "url": "https://www.tiktok.com"},
-    {"name": "📺 YouTube", "url": "https://www.youtube.com"},
-    {"name": "🤖 ChatGPT", "url": "https://chatgpt.com"},
-    {"name": "🎧 Spotify", "url": "https://open.spotify.com"}
   ]
 }
